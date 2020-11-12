@@ -8,3 +8,5 @@ Hi, my name is Will Peyer, and I am a Junior at Eden Prairie High School. My spe
 I first started coding in MIT App Inventor while I was in the class AP Computer Science Principles. I learned a lot in that class, and you can see my final project here: https://github.com/WillPeyer/Apple-Finder
 
 It is called "Apple Finder", and its main use it to find and select your own personal apple. The user would instert their preferences into some sliders (i.e. sweetness, crispness, tartness), and the algorithm would find their perfect apple.
+
+![titleScreen](https://user-images.githubusercontent.com/73123369/98884496-ccb27680-2455-11eb-95d6-dbd3b1d11b02.png)
