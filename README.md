@@ -9,6 +9,7 @@ Hi, my name is Will Peyer, and I am a Junior at Eden Prairie High School. My spe
 My most recent project that I've undertaken with two other partners is called "Elmo's Revenge". Its development journey was mainly used at a learning epericence for me and my two teammeates. I main role during the development was smoothing out the timing of the monster's spawning, and managing the score of the player after the game had ended.
 https://github.com/WillPeyer/1MonthProject/tree/main
 
+# MIT-AppInventor-Portfolio
 I first started coding in MIT App Inventor while I was in the class AP Computer Science Principles. I learned a lot in that class, and you can see my final project here: https://github.com/WillPeyer/Apple-Finder
 
 It is called "Apple Finder'', and its main use is to find and select your own personal apple. The user would insert their preferences into some sliders (i.e. sweetness, crispness, tartness), and the algorithm would find their perfect apple.
